@@ -1,0 +1,7 @@
+    A escolha da POO para o gerenciamento de uma bibilioteca se baseia nas funcionalidades necessarias para tal.
+No caso, em uma biblioteca seria possivel criar uma classe pai como a classe Livro, que teria todas as funcionalidades
+e todas as caracteristicas dos livros, alem disso, o uso do objeto livro facilitaria o manusseio do processo.
+    Outros pontos seria o polimorfismo, no caso , alguma funcao poderia ter sua funcionalidade adptada ao contexto, sendo ponto 
+chave do Reuso.
+O ponto principal na minha opiniao seria a organizacao do codigo e consequentemente do sistema de livraria, ja que a divisao em classes,
+facilita a seperacao de coisas, alem da manutencao de algo ser geral para aquele objeto.
